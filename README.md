@@ -1,7 +1,6 @@
 # Arduino Stacker Game
-[![Stacker Game Demo](https://img.youtube.com/vi/-oeyFDvVNB8/0.jpg)](https://youtube.com/shorts/-oeyFDvVNB8)
-
 A fully featured Stacker arcade game built with Arduino Uno and four 8x8 LED matrix displays.
+[![Stacker Game Demo](https://img.youtube.com/vi/-oeyFDvVNB8/0.jpg)](https://youtube.com/shorts/-oeyFDvVNB8)
 
 ## About
 Stacker is a classic arcade game where the player must stack blocks as they move across 
