@@ -1,5 +1,5 @@
 # Arduino Stacker Game
-
+[![Stacker Game Demo](https://img.youtube.com/vi/-oeyFDvVNB8/0.jpg)](https://youtube.com/shorts/-oeyFDvVNB8)
 A fully featured Stacker arcade game built with Arduino Uno and four 8x8 LED matrix displays.
 
 ## About
@@ -90,4 +90,6 @@ resistor is needed.
 - Every 10 consecutive perfect stacks your block shrinks by 1 dot
 - Stack all 32 rows to win
 
-Made by Bernie Gampel — March 2026
+## Author
+Made by Bernie Gampel — Computer Engineering Student, March 2026  
+GitHub: [bgampel2](https://github.com/bgampel2)
